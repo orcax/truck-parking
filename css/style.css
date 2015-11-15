@@ -1,0 +1,67 @@
+html {
+  padding:0;
+  margin:0;
+}
+
+body {
+  margin:0;
+  padding-top: 50px;
+  font-size: 18px;
+}
+
+.container {
+  width: 1024px;
+}
+
+footer {
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #777;
+  text-align: center;
+  border-top: 1px solid grey;
+}
+
+p.jumbo-title {
+  font-size: 32px; !important
+  margin: 0 auto 10px auto;
+}
+
+.tbl-title {
+  font-weight: bold;
+  text-align: center;
+}
+
+.fontsize-22 {
+  font-size: 22px;
+}
+
+.fontsize-18 {
+  font-size: 18px;
+}
+
+.section {
+  padding-bottom: 10px;
+  border-bottom: 1px solid grey;
+}
+
+.box-shadow-2dp {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 0, 0, .2), 0 1px 5px 0 rgba(0, 0, 0, .12)
+}
+.box-shadow-3dp {
+  box-shadow: 0 3px 4px 0 rgba(0, 0, 0, .14), 0 3px 3px -2px rgba(0, 0, 0, .2), 0 1px 8px 0 rgba(0, 0, 0, .12)
+}
+.box-shadow-4dp {
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12), 0 2px 4px -1px rgba(0, 0, 0, .2)
+}
+.box-shadow-6dp {
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, .14), 0 1px 18px 0 rgba(0, 0, 0, .12), 0 3px 5px -1px rgba(0, 0, 0, .2)
+}
+.box-shadow-8dp {
+  box-shadow: 0 8px 10px 1px rgba(0, 0, 0, .14), 0 3px 14px 2px rgba(0, 0, 0, .12), 0 5px 5px -3px rgba(0, 0, 0, .2)
+}
+.box-shadow-16dp {
+  box-shadow: 0 16px 24px 2px rgba(0, 0, 0, .14), 0 6px 30px 5px rgba(0, 0, 0, .12), 0 8px 10px -5px rgba(0, 0, 0, .2)
+}
+
+

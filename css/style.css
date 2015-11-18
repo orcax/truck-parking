@@ -41,6 +41,7 @@ p.jumbo-title {
 }
 
 .section {
+  padding-top: 50px;
   padding-bottom: 10px;
   border-bottom: 1px solid grey;
 }

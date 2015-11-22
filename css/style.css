@@ -50,8 +50,12 @@ p.jumbo-title {
   padding-top: 0;
 }
 
-.table-small {
+.font-small {
   font-size: 12px;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 .box-shadow-2dp {
